@@ -32,5 +32,8 @@ Gomel State University, 2014
   - e-mail: <a href="mailto:alex-bonnie@mail.ru">Alex Bonnie</a>
   - telephone: <a href="tel:+375293773707">phone number</a>
 
+# Location
+Minsk, Belarus
+
 ### English: 
   - B2
